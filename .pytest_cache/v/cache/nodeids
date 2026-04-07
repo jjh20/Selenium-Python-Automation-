@@ -1,0 +1,5 @@
+[
+  "test/test_saucedemo.py::test_agregar_producto_al_carrito",
+  "test/test_saucedemo.py::test_agregar_producto_y_checkout",
+  "test/test_saucedemo.py::test_login_exitoso"
+]

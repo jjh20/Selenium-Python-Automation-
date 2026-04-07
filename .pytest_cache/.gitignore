@@ -1,0 +1,19 @@
+# Entorno Virtual
+venv/
+.env
+
+# Carpetas de Pytest y Cache
+.pytest_cache/
+__pycache__/
+test/__pycache__/
+
+# Reportes y logs
+reporte.html
+assets/
+*.log
+
+# Archivos de configuración del sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
